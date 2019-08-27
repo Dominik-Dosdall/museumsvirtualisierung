@@ -1,0 +1,6 @@
+Workspace-Directory=
+BucketName=
+ProjectName=
+PictureNaming=
+ObjectCount=
+Picture-per-object=

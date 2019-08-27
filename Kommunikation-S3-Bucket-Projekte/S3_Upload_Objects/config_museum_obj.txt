@@ -1,0 +1,6 @@
+BucketName=museumsvirtualisierung
+ProjectName=DemoProject
+Object-Naming=texture_
+ObjectCount=1
+Objects-Path=C:\Users\annal\Desktop\MeshroomCache\Texturing
+ObjectNaming=texturedMesh

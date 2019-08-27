@@ -1,0 +1,6 @@
+BucketName=museumsvirtualisierung
+ProjectName=DemoProject
+PictureNaming=obj_
+ObjectCount=1
+Picture-per-object=50
+Save-Location=C:\Users\annal\Desktop
