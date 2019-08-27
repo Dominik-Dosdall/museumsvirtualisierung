@@ -1,5 +1,5 @@
 # Museumsvirtualisierung
-Projekt von Pascal Krause und Dominik Dosdall, Studenten der Hochschule Harz, im Anwendungspraktikum Digitales Kulturerbe / Internet of Things
+Ein Projekt von Pascal Krause und Dominik Dosdall, Studenten der Hochschule Harz, im Anwendungspraktikum Digitales Kulturerbe / Internet of Things
 
 # externer Rechner
 Erstellen sie aus den Java-Projekten ausführbare Jar-Dateien.
