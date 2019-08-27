@@ -17,4 +17,4 @@ Die Datei KameraAufnahme.py startet das Skript zum Aufnehmen von Bildern durch d
 # Jars
 Die Jars erzeugen beim Ausführen Konfigurationsdateien, die vom Nutzer ausgefüllt werden müssen.
 Um eine Verbindung zum eigenen AWS-Account herstellen zu können, bedarf es der AWS-Credentials. Diese werden unter "C:\Users\\@Nutzername\\.aws" gespeichert.
-Die Daten für die Datei findet man im AWS-Account. Der Credentials String muss einfach in die Datei hineinkopiert werden.
+Den String für die Datei findet man im AWS-Account. Der Credentials String muss einfach in die Datei hineinkopiert werden.
