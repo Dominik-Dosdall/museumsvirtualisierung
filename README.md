@@ -1,4 +1,4 @@
-# museumsvirtualisierung
+# Museumsvirtualisierung
 Projekt von Pascal Krause und Dominik Dosdall, Studenten der Hochschule Harz, im Anwendungspraktikum Digitales Kulturerbe / Internet of Things
 
 # externer Rechner
